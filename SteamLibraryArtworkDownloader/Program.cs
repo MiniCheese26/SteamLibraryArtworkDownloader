@@ -1,12 +1,14 @@
-﻿using System;
+﻿using System.Diagnostics;
+using System.Threading.Tasks;
 
 namespace SteamLibraryArtworkDownloader
 {
-    class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        private static async Task Main()
         {
-            Console.WriteLine("Hello World!");
+            var manager = new SteamDownloadManager();
+            await manager.RunApp();
         }
     }
 }
