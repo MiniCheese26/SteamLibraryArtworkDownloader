@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamLibraryArtworkDownloader", "SteamLibraryArtworkDownloader\SteamLibraryArtworkDownloader.csproj", "{FC0506D5-006C-4655-99AD-65F69022E7FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0506D5-006C-4655-99AD-65F69022E7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0506D5-006C-4655-99AD-65F69022E7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0506D5-006C-4655-99AD-65F69022E7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0506D5-006C-4655-99AD-65F69022E7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
